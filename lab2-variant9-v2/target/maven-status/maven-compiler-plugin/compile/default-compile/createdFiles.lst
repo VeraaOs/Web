@@ -1,0 +1,14 @@
+com/example/store/api/dto/ProductResponse.class
+com/example/store/application/ProductService.class
+com/example/store/infrastructure/InMemoryProductRepository.class
+com/example/store/application/exceptions/ValidationException.class
+com/example/store/application/exceptions/NotFoundException.class
+com/example/store/StoreApplication.class
+com/example/store/api/dto/PurchaseRequest.class
+com/example/store/application/exceptions/NotEnoughStockException.class
+com/example/store/api/ProductController.class
+com/example/store/api/dto/ProductRequest.class
+com/example/store/domain/ProductRepository.class
+com/example/store/application/exceptions/LimitExceededException.class
+com/example/store/domain/Product.class
+com/example/store/api/GlobalExceptionHandler.class
